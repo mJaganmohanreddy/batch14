@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: pythonapp
-        image: chary7702/batch13:pythonapp
+        image: chary7702/batch13:xyz
         ports:
         - containerPort: 8080
